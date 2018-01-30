@@ -10,3 +10,5 @@ It is too early to get the project and use it because there is a lot to do. Howe
 - [ ] Add user photo upload
 - [ ] Add forget password
 - [ ] Add author column to posts table
+- [ ] Add database variables to config file
+- [ ] Complete errors in model files
